@@ -1,0 +1,64 @@
+Nome das tintas:
+
+O Amargo Sabor de Derrota e Limão
+Uma Extraordinária Abundância de Matiz
+Um Distinto Toque de Cinza
+Distorção Violeta Perversa
+Peculiarmente Agradável ao Paladar
+Ausência de Amarelo
+A Cor dos Sonhos
+Apenas Distração
+Escória dos Deuses
+O Gentil Despertar da Primavera
+Laranja Bonita
+Cor Incomum
+Notavelmente Distinto
+O Primeiro Sinal de Primavera
+O Negro da Meia-Noite Após uma Janta Especial
+Um Delicado Balaço de Caramelo
+Comercializável Raro
+Grito de Guerra
+Um Distinto Toco de Água
+Vermelho 40
+Rosto Pálido de Alguém
+Pergaminho do Carteiro
+Espírito de Equipamento
+Forma da Cabeça de Cabelo
+Aroma de Destino
+Noites de Fortaleza Negra
+Reino Marinho do Mercenário
+Tons de Equinócio
+Esquadrão dos Estames Estilhaçados
+
+Nome das tintas e seus respectivos códigos de cor:
+
+O Amargo Sabor de Derrota e Limão - #A8A9AA
+Uma Extraordinária Abundância de Matiz - #7D4071
+Um Distinto Toque de Cinza - #B0B3BE
+Distorção Violeta Perversa - #38F3AB
+Peculiarmente Agradável ao Paladar - #A57545
+Ausência de Amarelo - #787878
+A Cor dos Sonhos - #39CCCC
+Apenas Distração - #0F0F0F
+Escória dos Deuses - #FFF700
+O Gentil Despertar da Primavera - #FAD201
+Laranja Bonita - #FF8C00
+Cor Incomum - #C0C0C0
+Notavelmente Distinto - #A52A2A
+O Primeiro Sinal de Primavera - #00FF00
+O Negro da Meia-Noite Após uma Janta Especial - #000000
+Um Delicado Balaço de Caramelo - #EDC9AF
+Comercializável Raro - #FFD700
+Grito de Guerra - #C51F22
+Um Distinto Toco de Água - #5ED4FF
+Vermelho 40 - #FF0040
+Rosto Pálido de Alguém - #FFDAB9
+Pergaminho do Carteiro - #F0E68C
+Espírito de Equipamento - #A4A4A4
+Forma da Cabeça de Cabelo - #FF4500
+Aroma de Destino - #40E0D0
+Noites de Fortaleza Negra - #0A0A0A
+Reino Marinho do Mercenário - #306EFF
+Tons de Equinócio - #007FFF
+Esquadrão dos Estames Estilhaçados - #DA70D6
+

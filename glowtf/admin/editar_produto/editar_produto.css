@@ -1,0 +1,107 @@
+.corpo {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 33px;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-bottom: 100px;
+}
+
+.fundo-adiciona-produto {
+  width: 50%;
+  max-width: 500px;
+  height: auto;
+  padding: 10%;
+  border-radius: 3px;
+  background: radial-gradient(circle at 0%, #4C4B58, #323030);
+  color: #ffffff;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.25);
+  display: flex;
+  justify-content: space-between;
+}
+
+.dados-produto {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imagem {
+  width: 30%;
+  height: 30%;
+  background-color: #4C4B58;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.25);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imagem:hover {
+  background-color: rgb(112, 111, 130);
+  cursor: pointer;
+}
+
+.imagem-produto {
+  display: flex;
+}
+
+.input-produto {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.input-imagem {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.linha-vertical {
+  border-left: 1px solid  rgb(112, 111, 130);
+  height: 100%;
+}
+
+input[type="file"] {
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+.imagens {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  top: 0;
+  left: 0;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.imagens:hover {
+  cursor: pointer;
+}
+
+.splash {
+  position: absolute;
+  right: 40px;
+  top: 10px;
+  filter: drop-shadow(0 0 0.75rem rgba(0, 0, 0, 0.5));
+}
+
+.imagem-produto {
+  width: 100%;
+  max-width: 300px;
+  filter: drop-shadow(0 0 0.75rem rgba(0, 0, 0, 0.5));
+}
+
+.imagem-botao {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
