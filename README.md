@@ -33,6 +33,23 @@
 
 - **Identificação do Usuário**
 
+### Views
+
+1. Home
+<img src="https://i.imgur.com/lu5pklz.png" alt="Home" width="500"/>
+
+2. Tela do Produto
+<img src="https://i.imgur.com/6ZJLUWJ.png" alt="Produto" width="500"/>
+
+3. Carrinho de Compras
+<img src="https://i.imgur.com/wN1pofp.png" alt="Carrinho" width="500"/>
+
+4. Compra
+<img src="https://i.imgur.com/0fsO9Na.png" alt="Compra" width="500"/>
+
+5. Pagamento por PIX
+<img src="https://i.imgur.com/3g41oO9.png" alt="Pagamento" width="500"/>
+
 ### Ferramentas
 
 - **HTML5**
