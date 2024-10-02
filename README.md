@@ -59,6 +59,41 @@
 - **MySQL**
 - **Xampp**
 
+## Execução
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/tuchanski/glowtf-web.git
+   ```
+
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd glowtf-web
+   ```
+
+3. Inicie o XAMPP e ative o Apache e MySQL.
+
+4. Coloque o projeto na pasta `htdocs` do XAMPP:
+
+   ```bash
+   mv glowtf /caminho/para/xampp/htdocs/
+   ```
+
+5. Importe o banco de dados:
+
+   - Abra o phpMyAdmin acessando `http://localhost/phpmyadmin`.
+   - Importe os arquivos SQL localizado na pasta **database** do projeto.
+   - Execute o script *database.sql*
+   - Execute o script *populate.sql*
+
+6. Abra o navegador e acesse o site:
+
+   ```
+   http://localhost/glowtf/home/home.html
+   ```
+   
 ## Autores
  
 - Ana Paula Borowsky | [GitHub](https://github.com/ana-borowsky)
