@@ -75,11 +75,7 @@
 
 3. Inicie o XAMPP e ative o Apache e MySQL.
 
-4. Coloque o projeto na pasta `htdocs` do XAMPP:
-
-   ```bash
-   mv glowtf /caminho/para/xampp/htdocs/
-   ```
+4. Coloque o diretório **glowtf** na pasta `htdocs` do XAMPP:
 
 5. Importe o banco de dados:
 
