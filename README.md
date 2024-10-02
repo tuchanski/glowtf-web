@@ -1,7 +1,7 @@
 
-# Glow.tf | Projeto Web
+# Glow.tf | Projeto Web 🤠
 
-**Glow.tf** é o protótipo de um site de vendas de skin de Team Fortress 2. Projetado como um trabalho em grupo da disciplina de Programação Web, do curso de Ciência da Computação da PUCPR.
+**Glow.tf** é o protótipo de um site de vendas de chapéus (skins) de Team Fortress 2. Projetado como um trabalho em grupo da disciplina de Programação Web, do curso de Ciência da Computação da PUCPR.
 
 ## Conteúdo
 
@@ -33,7 +33,7 @@
 
 - **Identificação do Usuário**
 
-### Views
+## Views
 
 1. Home
 <img src="https://i.imgur.com/lu5pklz.png" alt="Home" width="500"/>
@@ -50,7 +50,7 @@
 5. Pagamento por PIX
 <img src="https://i.imgur.com/3g41oO9.png" alt="Pagamento" width="500"/>
 
-### Ferramentas
+## Ferramentas
 
 - **HTML5**
 - **CSS**
